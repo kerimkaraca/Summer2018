@@ -6,7 +6,12 @@
 package palindrom;
 
 import java.util.Scanner;
-    public class Palindrom {
+
+/**
+ * Mustafa
+ *
+ */
+public class Palindrom {
 
     public static void main(String[] args) {
       Scanner input=new Scanner(System.in);
